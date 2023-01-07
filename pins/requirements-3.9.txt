@@ -143,9 +143,9 @@ more-itertools==9.0.0 \
     --hash=sha256:250e83d7e81d0c87ca6bd942e6aeab8cc9daa6096d12c5308f3f92fa5e5c1f41 \
     --hash=sha256:5a6257e40878ef0520b1803990e3e22303a41b5714006c32a3fd8304b26ea1ab
     # via jaraco-classes
-pkginfo==1.9.4 \
-    --hash=sha256:7fc056f8e6b93355925083373b0f6bfbabe84ee3f29854fd155c9d6a4211267d \
-    --hash=sha256:e769fd353593d43e0c9f47e17e25f09a8efcddcdf9a71674ea3ba444ff31bb44
+pkginfo==1.9.5 \
+    --hash=sha256:14ac884f19ef50abfce74b2793394903b3e2901e759908237ba5e18ca9d7524b \
+    --hash=sha256:911a99a7dbcd52d0726b32e9f0df84d09081f4faf98deff1e3835b7880d14223
     # via twine
 pycparser==2.21 \
     --hash=sha256:8ee45429555515e1f6b185e78100aea234072576aa43ab53aefcae078162fca9 \
