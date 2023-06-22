@@ -183,9 +183,9 @@ jaraco-classes==3.2.3 ; python_version >= "3.7" and python_version < "4.0" \
 jeepney==0.8.0 ; python_version >= "3.7" and python_version < "4.0" and sys_platform == "linux" \
     --hash=sha256:5efe48d255973902f6badc3ce55e2aa6c5c3b3bc642059ef3a91247bcfcc5806 \
     --hash=sha256:c0a454ad016ca575060802ee4d590dd912e35c122fa04e70306de3d076cce755
-keyring==24.0.0 ; python_version >= "3.7" and python_version < "4.0" \
-    --hash=sha256:4e87665a19c514c7edada8b15015cf89bd99b8d7edabc5c43cca77166fa8dfad \
-    --hash=sha256:770f609eed2a16c65a6349f3ba1545d00c73f9fed4254c13766c674fe6d0d22b
+keyring==24.0.1 ; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:b3eaa3874e2cffeba2d73e3f275c83827156d0616a2160a610a60d63922ad24b \
+    --hash=sha256:f77da625a448baa77906b099be9feaa29aa90979547506ac1ec422926085cee0
 markdown-it-py==2.2.0 ; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:5a35f8d1870171d9acc47b99612dc146129b631baf04970128b568f190d0cc30 \
     --hash=sha256:7c9a5e412688bc771c67432cbfebcdd686c93ce6484913dccf06cb5a0bea35a1
