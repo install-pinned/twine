@@ -255,9 +255,9 @@ rich==13.7.0 ; python_version >= "3.8" and python_version < "4.0" \
 secretstorage==3.3.3 ; python_version >= "3.8" and python_version < "4.0" and sys_platform == "linux" \
     --hash=sha256:2403533ef369eca6d2ba81718576c5e0f564d5cca1b58f73a8b23e7d4eeebd77 \
     --hash=sha256:f356e6628222568e3af06f2eba8df495efa13b3b63081dafd4f7d9a7b7bc9f99
-twine==4.0.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:929bc3c280033347a00f847236564d1c52a3e61b1ac2516c97c48f3ceab756d8 \
-    --hash=sha256:9e102ef5fdd5a20661eb88fad46338806c3bd32cf1db729603fe3697b1bc83c8
+twine==5.0.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:89b0cc7d370a4b66421cc6102f269aa910fe0f1861c124f573cf2ddedbc10cf4 \
+    --hash=sha256:a262933de0b484c53408f9edae2e7821c1c45a3314ff2df9bdd343aa7ab8edc0
 typing-extensions==4.9.0 ; python_version >= "3.8" and python_version < "3.9" \
     --hash=sha256:23478f88c37f27d76ac8aee6c905017a143b0b1b886c3c9f66bc2fd94f9f5783 \
     --hash=sha256:af72aea155e91adfc61c3ae9e0e342dbc0cba726d6cba4b6c72c1f34e47291cd
