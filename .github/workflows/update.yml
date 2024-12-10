@@ -19,7 +19,7 @@ jobs:
         with:
             version: "0.5.7"
 
-      - run: uv --directory ${{ runner.temp }} init --no-workspace --no-readme
+      - run: uv --directory ${{ runner.temp }} init --no-workspace --no-readme --name install-pinned
       - run: uv --directory ${{ runner.temp }} add --no-sync twine
       - run: uv --directory ${{ runner.temp }} export -o ${{ github.workspace }}/requirements.txt
 
