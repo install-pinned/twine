@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install twine from PyPI
-        uses: install-pinned/twine@622d09f9af654a656a9f50506465c6586709604c  # 6.0.1
+        uses: install-pinned/twine@c3994ec4b762b9139556aa76153fe9dd8471dc4b  # 6.0.1
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
