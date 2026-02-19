@@ -347,9 +347,9 @@ requests-toolbelt==1.0.0 ; platform_python_implementation != 'PyPy' or python_fu
 rfc3986==2.0.0 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
     --hash=sha256:50b1502b60e289cb37883f3dfd34532b8873c7de9f49bb546641ce9cbd256ebd \
     --hash=sha256:97aacf9dbd4bfd829baad6e6309fa6573aaf1be3f6fa735c8ab05e46cecb261c
-rich==14.3.2 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
-    --hash=sha256:08e67c3e90884651da3239ea668222d19bea7b589149d8014a21c633420dbb69 \
-    --hash=sha256:e712f11c1a562a11843306f5ed999475f09ac31ffb64281f73ab29ffdda8b3b8
+rich==14.3.3 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
+    --hash=sha256:793431c1f8619afa7d3b52b2cdec859562b950ea0d4b6b505397612db8d5362d \
+    --hash=sha256:b8daa0b9e4eef54dd8cf7c86c03713f53241884e814f4e2f5fb342fe520f639b
 secretstorage==3.3.3 ; (platform_machine != 'ppc64le' and platform_machine != 's390x' and platform_python_implementation != 'PyPy' and sys_platform == 'linux') or (python_full_version >= '3.8' and platform_machine != 'ppc64le' and platform_machine != 's390x' and sys_platform == 'linux') \
     --hash=sha256:2403533ef369eca6d2ba81718576c5e0f564d5cca1b58f73a8b23e7d4eeebd77 \
     --hash=sha256:f356e6628222568e3af06f2eba8df495efa13b3b63081dafd4f7d9a7b7bc9f99
