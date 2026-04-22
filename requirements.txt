@@ -3,9 +3,9 @@
 backports-tarfile==1.2.0 ; (python_full_version < '3.8' and platform_machine != 'ppc64le' and platform_machine != 's390x' and platform_python_implementation != 'PyPy') or (python_full_version >= '3.8' and python_full_version < '3.12' and platform_machine != 'ppc64le' and platform_machine != 's390x') \
     --hash=sha256:77e284d754527b01fb1e6fa8a1afe577858ebe4e9dad8919e34c862cb399bc34 \
     --hash=sha256:d75e02c268746e1b8144c278978b6e98e85de6ad16f8e4b0844a154557eca991
-certifi==2026.2.25 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
-    --hash=sha256:027692e4402ad994f1c42e52a4997a9763c646b73e4096e4d5d6db8af1d6f0fa \
-    --hash=sha256:e887ab5cee78ea814d3472169153c2d12cd43b14bd03329a39a9c6e2e80bfba7
+certifi==2026.4.22 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
+    --hash=sha256:3cb2210c8f88ba2318d29b0388d1023c8492ff72ecdde4ebdaddbb13a31b1c4a \
+    --hash=sha256:8d455352a37b71bf76a79caa83a3d6c25afee4a385d632127b6afb3963f1c580
 cffi==1.17.1 ; python_full_version < '3.9' and platform_machine != 'ppc64le' and platform_machine != 's390x' and platform_python_implementation != 'PyPy' and sys_platform == 'linux' \
     --hash=sha256:045d61c734659cc045141be4bae381a41d89b741f795af1dd018bfb532fd0df8 \
     --hash=sha256:0e2b1fac190ae3ebfe37b979cc1ce69c81f4e4fe5746bb401dca63a9062cdaf1 \
@@ -278,9 +278,9 @@ docutils==0.20.1 ; platform_python_implementation != 'PyPy' or python_full_versi
 id==1.5.0 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
     --hash=sha256:292cb8a49eacbbdbce97244f47a97b4c62540169c976552e497fd57df0734c1d \
     --hash=sha256:f1434e1cef91f2cbb8a4ec64663d5a23b9ed43ef44c4c957d02583d61714c658
-idna==3.12 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
-    --hash=sha256:60ffaa1858fac94c9c124728c24fcde8160f3fb4a7f79aa8cdd33a9d1af60a67 \
-    --hash=sha256:724e9952cc9e2bd7550ea784adb098d837ab5267ef67a1ab9cf7846bdbdd8254
+idna==3.13 ; platform_python_implementation != 'PyPy' or python_full_version >= '3.8' \
+    --hash=sha256:585ea8fe5d69b9181ec1afba340451fba6ba764af97026f92a91d4eef164a242 \
+    --hash=sha256:892ea0cde124a99ce773decba204c5552b69c3c67ffd5f232eb7696135bc8bb3
 importlib-metadata==8.5.0 ; (python_full_version < '3.8' and platform_python_implementation != 'PyPy') or (python_full_version >= '3.8' and python_full_version < '3.10') or (python_full_version >= '3.10' and python_full_version < '3.12' and platform_machine != 'ppc64le' and platform_machine != 's390x') \
     --hash=sha256:45e54197d28b7a7f1559e60b95e7c567032b602131fbd588f1497f47880aa68b \
     --hash=sha256:71522656f0abace1d072b9e5481a48f07c138e00f079c38c8f883823f9c26bd7
